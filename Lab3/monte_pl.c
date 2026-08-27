@@ -5,7 +5,7 @@
 #include <time.h>
 
 #define N 1000000
-#define THREADS 4
+#define THREADS 8
 
 long long in[THREADS];
 
